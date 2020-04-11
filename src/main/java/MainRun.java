@@ -9,8 +9,9 @@ public class MainRun {
     private static OutHotel oh = new OutHotel();
 
     public static void main(String[] args) {
-        initRooms();
-        command();
+        System.out.println("这是jenkins测试");
+       // initRooms();
+        //command();
 
     }
 
